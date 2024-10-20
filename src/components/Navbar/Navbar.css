@@ -1,0 +1,11 @@
+
+.gal img{
+    width: 60px;
+    height: 60px;
+    
+  }
+
+  .gal{
+    margin-right: 20px;
+    color:rgba(3, 3, 111, 0.773);
+  }
